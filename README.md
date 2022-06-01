@@ -42,7 +42,7 @@ Agradecemos a Fatec e ao Mestre Maromo por todo apoio e ensinamentos.
 <sub>
   <div>
     <a href="https://fatecmm.edu.br" target="_blank" rel="noreferrer" rel="noopener">
-      <img src="Fatec.jpg" alt="Fatec" width="300px;"/><br>
+      <img src="Fatec.jpg" alt="Fatec" width="150px;"/><br>
     </a></br>
   </div>
 </sub>
